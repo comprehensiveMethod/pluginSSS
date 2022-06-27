@@ -1,3 +1,2 @@
 # pluginSSS
-My first Minecraft plugin
-Old plugin that adding cases on minecraft servers, actually it was wrote in 2020
+My first(and i hope last) Minecraft plugin, that adding cases on minecraft servers, actually i wrote it in 2020
